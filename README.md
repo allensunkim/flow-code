@@ -1,6 +1,6 @@
 Simple .flo file visualizer
 
-Built in Windows
+VC 2015
 Opencv 3.1.0 or higher, untested with older versions.
 
 Usage:
